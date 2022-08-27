@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{6D93F016-E5F7-418D-83E2-ED5787E142D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iman.UOM", "lib\iman.UOM\iman.UOM.csproj", "{44CD6EBD-A602-48A1-A621-AAFF9216BD91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44CD6EBD-A602-48A1-A621-AAFF9216BD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CD6EBD-A602-48A1-A621-AAFF9216BD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CD6EBD-A602-48A1-A621-AAFF9216BD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CD6EBD-A602-48A1-A621-AAFF9216BD91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44CD6EBD-A602-48A1-A621-AAFF9216BD91} = {6D93F016-E5F7-418D-83E2-ED5787E142D8}
+	EndGlobalSection
+EndGlobal
