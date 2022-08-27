@@ -8,4 +8,5 @@ public interface IUnitOfMeasure
     string Slug { get; }
     string Symbol { get; }
     UnitDimension Dimension { get; }
+    string Description { get; }
 }
